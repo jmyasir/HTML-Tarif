@@ -1,1 +1,1 @@
-<h1 style="color: brown;">...Kereviz Salatası...</h1>
+<h1>...Kereviz Salatası...</h1>
